@@ -17,4 +17,4 @@ Langquire course editor
   - [x] Save your changes or revert to the saved version if you accidentally change something
 
 ## Download
-You can download Langquire Editor from the [Langquire website](http://langquire.maweb.eu/) or the [releases page](https://github.com/Mrr7782/Langquire_editor/releases/).
+You can download Langquire Editor from the [Langquire website](http://langquire.maweb.eu/) or the [releases page](https://github.com/Mrr7782/langquire-editor/releases/).
