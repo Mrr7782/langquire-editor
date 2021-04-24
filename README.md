@@ -1,5 +1,5 @@
 # Discontinued
-The Langquire project has been discontinued and neither the Langquire Editor, nor Langquire Study will be updated anymore.
+The Langquire project has been discontinued and neither Langquire Editor, nor Langquire Study will be updated anymore.
 
 # Langquire Editor
 Langquire course editor
